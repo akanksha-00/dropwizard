@@ -1,0 +1,6 @@
+com\sample\persistence\PersonDB.class
+com\sample\AppCheck.class
+com\sample\RestApplication.class
+com\sample\service\PersonService.class
+com\sample\configuration\AppConfiguration.class
+com\sample\data\Person.class
